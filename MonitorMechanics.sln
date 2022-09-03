@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MonitorMechanics", "MonitorMechanics\MonitorMechanics.csproj", "{FA0E9DB2-2E18-4A0A-B0CB-7593E9407BFC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FA0E9DB2-2E18-4A0A-B0CB-7593E9407BFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA0E9DB2-2E18-4A0A-B0CB-7593E9407BFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA0E9DB2-2E18-4A0A-B0CB-7593E9407BFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA0E9DB2-2E18-4A0A-B0CB-7593E9407BFC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

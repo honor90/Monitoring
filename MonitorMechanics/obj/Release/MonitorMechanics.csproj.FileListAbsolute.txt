@@ -1,0 +1,215 @@
+D:\Горшков А.А\Стенд Иноходец РУ-МЕХАНИКА\Soft\MonitorMechanics\MonitorMechanics\bin\Release\MonitorMechanics.exe
+D:\Горшков А.А\Стенд Иноходец РУ-МЕХАНИКА\Soft\MonitorMechanics\MonitorMechanics\bin\Release\MonitorMechanics.pdb
+D:\Горшков А.А\Стенд Иноходец РУ-МЕХАНИКА\Soft\MonitorMechanics\MonitorMechanics\bin\Release\ZedGraph.dll
+D:\Горшков А.А\Стенд Иноходец РУ-МЕХАНИКА\Soft\MonitorMechanics\MonitorMechanics\obj\Release\MonitorMechanics.Form1.resources
+D:\Горшков А.А\Стенд Иноходец РУ-МЕХАНИКА\Soft\MonitorMechanics\MonitorMechanics\obj\Release\MonitorMechanics.Properties.Resources.resources
+D:\Горшков А.А\Стенд Иноходец РУ-МЕХАНИКА\Soft\MonitorMechanics\MonitorMechanics\obj\Release\MonitorMechanics.csproj.GenerateResource.Cache
+D:\Горшков А.А\Стенд Иноходец РУ-МЕХАНИКА\Soft\MonitorMechanics\MonitorMechanics\obj\Release\MonitorMechanics.exe
+D:\Горшков А.А\Стенд Иноходец РУ-МЕХАНИКА\Soft\MonitorMechanics\MonitorMechanics\obj\Release\MonitorMechanics.pdb
+D:\Горшков А.А\Стенд Иноходец РУ-МЕХАНИКА\Soft\MonitorMechanics\MonitorMechanics\obj\Release\MonitorMechanics.csprojResolveAssemblyReference.cache
+F:\Soft\MonitorMechanics\MonitorMechanics\bin\Release\MonitorMechanics.exe
+F:\Soft\MonitorMechanics\MonitorMechanics\bin\Release\MonitorMechanics.pdb
+F:\Soft\MonitorMechanics\MonitorMechanics\bin\Release\ZedGraph.dll
+F:\Soft\MonitorMechanics\MonitorMechanics\obj\Release\MonitorMechanics.csprojAssemblyReference.cache
+F:\Soft\MonitorMechanics\MonitorMechanics\obj\Release\MonitorMechanics.Form1.resources
+F:\Soft\MonitorMechanics\MonitorMechanics\obj\Release\MonitorMechanics.Properties.Resources.resources
+F:\Soft\MonitorMechanics\MonitorMechanics\obj\Release\MonitorMechanics.csproj.GenerateResource.cache
+F:\Soft\MonitorMechanics\MonitorMechanics\obj\Release\MonitorMechanics.csproj.CoreCompileInputs.cache
+F:\Soft\MonitorMechanics\MonitorMechanics\obj\Release\MonitorMechanics.csproj.CopyComplete
+F:\Soft\MonitorMechanics\MonitorMechanics\obj\Release\MonitorMechanics.exe
+F:\Soft\MonitorMechanics\MonitorMechanics\obj\Release\MonitorMechanics.pdb
+E:\Soft\MonitorMechanics\MonitorMechanics\obj\Release\MonitorMechanics.exe
+E:\Soft\MonitorMechanics\MonitorMechanics\obj\Release\MonitorMechanics.pdb
+E:\Soft\MonitorMechanics\MonitorMechanics\obj\Release\MonitorMechanics.csprojResolveAssemblyReference.cache
+E:\Soft\MonitorMechanics\MonitorMechanics\obj\Release\MonitorMechanics.Form1.resources
+E:\Soft\MonitorMechanics\MonitorMechanics\obj\Release\MonitorMechanics.Properties.Resources.resources
+E:\Soft\MonitorMechanics\MonitorMechanics\obj\Release\MonitorMechanics.csproj.GenerateResource.Cache
+E:\Soft\MonitorMechanics_v1.2\MonitorMechanics\obj\Release\MonitorMechanics.exe
+E:\Soft\MonitorMechanics_v1.2\MonitorMechanics\obj\Release\MonitorMechanics.pdb
+E:\Soft\MonitorMechanics_v1.2\MonitorMechanics\bin\Release\MonitorMechanics.exe
+E:\Soft\MonitorMechanics_v1.2\MonitorMechanics\bin\Release\MonitorMechanics.pdb
+E:\Soft\MonitorMechanics_v1.2\MonitorMechanics\bin\Release\ZedGraph.dll
+E:\Soft\MonitorMechanics_v1.2\MonitorMechanics\obj\Release\MonitorMechanics.csprojResolveAssemblyReference.cache
+E:\Soft\MonitorMechanics_v1.2\MonitorMechanics\obj\Release\MonitorMechanics.Form1.resources
+E:\Soft\MonitorMechanics_v1.2\MonitorMechanics\obj\Release\MonitorMechanics.Properties.Resources.resources
+E:\Soft\MonitorMechanics_v1.2\MonitorMechanics\obj\Release\MonitorMechanics.csproj.GenerateResource.Cache
+E:\Soft\MonitorMechanics_v1.3\MonitorMechanics\obj\Release\MonitorMechanics.exe
+E:\Soft\MonitorMechanics_v1.3\MonitorMechanics\obj\Release\MonitorMechanics.pdb
+E:\Soft\MonitorMechanics_v1.3\MonitorMechanics\bin\Release\MonitorMechanics.exe
+E:\Soft\MonitorMechanics_v1.3\MonitorMechanics\bin\Release\MonitorMechanics.pdb
+E:\Soft\MonitorMechanics_v1.3\MonitorMechanics\bin\Release\ZedGraph.dll
+E:\Soft\MonitorMechanics_v1.3\MonitorMechanics\obj\Release\MonitorMechanics.csprojResolveAssemblyReference.cache
+E:\Soft\MonitorMechanics_v1.3\MonitorMechanics\obj\Release\MonitorMechanics.Form1.resources
+E:\Soft\MonitorMechanics_v1.3\MonitorMechanics\obj\Release\MonitorMechanics.Properties.Resources.resources
+E:\Soft\MonitorMechanics_v1.3\MonitorMechanics\obj\Release\MonitorMechanics.csproj.GenerateResource.Cache
+E:\Soft\MonitorMechanics_v1.5\MonitorMechanics\obj\Release\MonitorMechanics.exe
+E:\Soft\MonitorMechanics_v1.5\MonitorMechanics\obj\Release\MonitorMechanics.pdb
+E:\Soft\MonitorMechanics_v1.5\MonitorMechanics\bin\Release\MonitorMechanics.exe
+E:\Soft\MonitorMechanics_v1.5\MonitorMechanics\bin\Release\MonitorMechanics.pdb
+E:\Soft\MonitorMechanics_v1.5\MonitorMechanics\bin\Release\ZedGraph.dll
+E:\Soft\MonitorMechanics_v1.5\MonitorMechanics\obj\Release\MonitorMechanics.csprojResolveAssemblyReference.cache
+E:\Soft\MonitorMechanics_v1.5\MonitorMechanics\obj\Release\MonitorMechanics.Form1.resources
+E:\Soft\MonitorMechanics_v1.5\MonitorMechanics\obj\Release\MonitorMechanics.Properties.Resources.resources
+E:\Soft\MonitorMechanics_v1.5\MonitorMechanics\obj\Release\MonitorMechanics.csproj.GenerateResource.Cache
+E:\Soft\MonitorMechanics_v1.6\MonitorMechanics\obj\Release\MonitorMechanics.exe
+E:\Soft\MonitorMechanics_v1.6\MonitorMechanics\obj\Release\MonitorMechanics.pdb
+E:\Soft\MonitorMechanics_v1.6\MonitorMechanics\bin\Release\MonitorMechanics.exe
+E:\Soft\MonitorMechanics_v1.6\MonitorMechanics\bin\Release\MonitorMechanics.pdb
+E:\Soft\MonitorMechanics_v1.6\MonitorMechanics\bin\Release\ZedGraph.dll
+E:\Soft\MonitorMechanics_v1.6\MonitorMechanics\obj\Release\MonitorMechanics.csprojResolveAssemblyReference.cache
+E:\Soft\MonitorMechanics_v1.6\MonitorMechanics\obj\Release\MonitorMechanics.Form1.resources
+E:\Soft\MonitorMechanics_v1.6\MonitorMechanics\obj\Release\MonitorMechanics.Properties.Resources.resources
+E:\Soft\MonitorMechanics_v1.6\MonitorMechanics\obj\Release\MonitorMechanics.csproj.GenerateResource.Cache
+E:\Soft\MonitorMechanics_v1.7\MonitorMechanics\obj\Release\MonitorMechanics.exe
+E:\Soft\MonitorMechanics_v1.7\MonitorMechanics\obj\Release\MonitorMechanics.pdb
+E:\Soft\MonitorMechanics_v1.7\MonitorMechanics\bin\Release\MonitorMechanics.exe
+E:\Soft\MonitorMechanics_v1.7\MonitorMechanics\bin\Release\MonitorMechanics.pdb
+E:\Soft\MonitorMechanics_v1.7\MonitorMechanics\bin\Release\ZedGraph.dll
+E:\Soft\MonitorMechanics_v1.7\MonitorMechanics\obj\Release\MonitorMechanics.csprojResolveAssemblyReference.cache
+E:\Soft\MonitorMechanics_v1.7\MonitorMechanics\obj\Release\MonitorMechanics.Form1.resources
+E:\Soft\MonitorMechanics_v1.7\MonitorMechanics\obj\Release\MonitorMechanics.Properties.Resources.resources
+E:\Soft\MonitorMechanics_v1.7\MonitorMechanics\obj\Release\MonitorMechanics.csproj.GenerateResource.Cache
+E:\Soft\MonitorMechanics_v1.8\MonitorMechanics\obj\Release\MonitorMechanics.exe
+E:\Soft\MonitorMechanics_v1.8\MonitorMechanics\obj\Release\MonitorMechanics.pdb
+E:\Soft\MonitorMechanics_v1.8\MonitorMechanics\bin\Release\MonitorMechanics.exe
+E:\Soft\MonitorMechanics_v1.8\MonitorMechanics\bin\Release\MonitorMechanics.pdb
+E:\Soft\MonitorMechanics_v1.8\MonitorMechanics\bin\Release\ZedGraph.dll
+E:\Soft\MonitorMechanics_v1.8\MonitorMechanics\obj\Release\MonitorMechanics.csprojResolveAssemblyReference.cache
+E:\Soft\MonitorMechanics_v1.8\MonitorMechanics\obj\Release\MonitorMechanics.Form1.resources
+E:\Soft\MonitorMechanics_v1.8\MonitorMechanics\obj\Release\MonitorMechanics.Properties.Resources.resources
+E:\Soft\MonitorMechanics_v1.8\MonitorMechanics\obj\Release\MonitorMechanics.csproj.GenerateResource.Cache
+E:\1\Soft\MonitorMechanics_v2.0\MonitorMechanics\obj\Release\MonitorMechanics.exe
+E:\1\Soft\MonitorMechanics_v2.0\MonitorMechanics\obj\Release\MonitorMechanics.pdb
+E:\MonitorMechanics_v3.0\MonitorMechanics\obj\Release\MonitorMechanics.exe
+E:\MonitorMechanics_v3.0\MonitorMechanics\obj\Release\MonitorMechanics.pdb
+E:\MonitorMechanics_v3.0\MonitorMechanics\bin\Release\MonitorMechanics.exe
+E:\MonitorMechanics_v3.0\MonitorMechanics\bin\Release\MonitorMechanics.pdb
+E:\MonitorMechanics_v3.0\MonitorMechanics\bin\Release\ZedGraph.dll
+E:\MonitorMechanics_v3.0\MonitorMechanics\obj\Release\MonitorMechanics.csprojResolveAssemblyReference.cache
+E:\MonitorMechanics_v3.0\MonitorMechanics\obj\Release\MonitorMechanics.Form1.resources
+E:\MonitorMechanics_v3.0\MonitorMechanics\obj\Release\MonitorMechanics.Properties.Resources.resources
+E:\MonitorMechanics_v3.0\MonitorMechanics\obj\Release\MonitorMechanics.csproj.GenerateResource.Cache
+E:\Soft\MonitorMechanics_v3.1\MonitorMechanics\obj\Release\MonitorMechanics.exe
+E:\Soft\MonitorMechanics_v3.1\MonitorMechanics\obj\Release\MonitorMechanics.pdb
+E:\Soft\MonitorMechanics_v3.1\MonitorMechanics\bin\Release\MonitorMechanics.exe
+E:\Soft\MonitorMechanics_v3.1\MonitorMechanics\bin\Release\MonitorMechanics.pdb
+E:\Soft\MonitorMechanics_v3.1\MonitorMechanics\bin\Release\ZedGraph.dll
+E:\Soft\MonitorMechanics_v3.1\MonitorMechanics\obj\Release\MonitorMechanics.csprojResolveAssemblyReference.cache
+E:\Soft\MonitorMechanics_v3.1\MonitorMechanics\obj\Release\MonitorMechanics.Form1.resources
+E:\Soft\MonitorMechanics_v3.1\MonitorMechanics\obj\Release\MonitorMechanics.Properties.Resources.resources
+E:\Soft\MonitorMechanics_v3.1\MonitorMechanics\obj\Release\MonitorMechanics.csproj.GenerateResource.Cache
+D:\Работа\НаукаСофт\Стенд Иноходец РУ-МЕХАНИКА\Soft\MonitorMechanics_v3.2\MonitorMechanics\bin\Release\MonitorMechanics.exe
+D:\Работа\НаукаСофт\Стенд Иноходец РУ-МЕХАНИКА\Soft\MonitorMechanics_v3.2\MonitorMechanics\bin\Release\MonitorMechanics.pdb
+D:\Работа\НаукаСофт\Стенд Иноходец РУ-МЕХАНИКА\Soft\MonitorMechanics_v3.2\MonitorMechanics\bin\Release\ZedGraph.dll
+D:\Работа\НаукаСофт\Стенд Иноходец РУ-МЕХАНИКА\Soft\MonitorMechanics_v3.2\MonitorMechanics\obj\Release\MonitorMechanics.csprojAssemblyReference.cache
+D:\Работа\НаукаСофт\Стенд Иноходец РУ-МЕХАНИКА\Soft\MonitorMechanics_v3.2\MonitorMechanics\obj\Release\MonitorMechanics.Form1.resources
+D:\Работа\НаукаСофт\Стенд Иноходец РУ-МЕХАНИКА\Soft\MonitorMechanics_v3.2\MonitorMechanics\obj\Release\MonitorMechanics.Properties.Resources.resources
+D:\Работа\НаукаСофт\Стенд Иноходец РУ-МЕХАНИКА\Soft\MonitorMechanics_v3.2\MonitorMechanics\obj\Release\MonitorMechanics.csproj.GenerateResource.cache
+D:\Работа\НаукаСофт\Стенд Иноходец РУ-МЕХАНИКА\Soft\MonitorMechanics_v3.2\MonitorMechanics\obj\Release\MonitorMechanics.csproj.CoreCompileInputs.cache
+D:\Работа\НаукаСофт\Стенд Иноходец РУ-МЕХАНИКА\Soft\MonitorMechanics_v3.2\MonitorMechanics\obj\Release\MonitorMechanics.csproj.CopyComplete
+D:\Работа\НаукаСофт\Стенд Иноходец РУ-МЕХАНИКА\Soft\MonitorMechanics_v3.2\MonitorMechanics\obj\Release\MonitorMechanics.exe
+D:\Работа\НаукаСофт\Стенд Иноходец РУ-МЕХАНИКА\Soft\MonitorMechanics_v3.2\MonitorMechanics\obj\Release\MonitorMechanics.pdb
+D:\Работа\НаукаСофт\Стенд Иноходец РУ-МЕХАНИКА\Soft\MonitorMechanics_v3.3\MonitorMechanics\bin\Release\MonitorMechanics.exe
+D:\Работа\НаукаСофт\Стенд Иноходец РУ-МЕХАНИКА\Soft\MonitorMechanics_v3.3\MonitorMechanics\bin\Release\MonitorMechanics.pdb
+D:\Работа\НаукаСофт\Стенд Иноходец РУ-МЕХАНИКА\Soft\MonitorMechanics_v3.3\MonitorMechanics\bin\Release\ZedGraph.dll
+D:\Работа\НаукаСофт\Стенд Иноходец РУ-МЕХАНИКА\Soft\MonitorMechanics_v3.3\MonitorMechanics\obj\Release\MonitorMechanics.csprojAssemblyReference.cache
+D:\Работа\НаукаСофт\Стенд Иноходец РУ-МЕХАНИКА\Soft\MonitorMechanics_v3.3\MonitorMechanics\obj\Release\MonitorMechanics.Form1.resources
+D:\Работа\НаукаСофт\Стенд Иноходец РУ-МЕХАНИКА\Soft\MonitorMechanics_v3.3\MonitorMechanics\obj\Release\MonitorMechanics.Properties.Resources.resources
+D:\Работа\НаукаСофт\Стенд Иноходец РУ-МЕХАНИКА\Soft\MonitorMechanics_v3.3\MonitorMechanics\obj\Release\MonitorMechanics.csproj.GenerateResource.cache
+D:\Работа\НаукаСофт\Стенд Иноходец РУ-МЕХАНИКА\Soft\MonitorMechanics_v3.3\MonitorMechanics\obj\Release\MonitorMechanics.csproj.CoreCompileInputs.cache
+D:\Работа\НаукаСофт\Стенд Иноходец РУ-МЕХАНИКА\Soft\MonitorMechanics_v3.3\MonitorMechanics\obj\Release\MonitorMechanics.csproj.CopyComplete
+D:\Работа\НаукаСофт\Стенд Иноходец РУ-МЕХАНИКА\Soft\MonitorMechanics_v3.3\MonitorMechanics\obj\Release\MonitorMechanics.exe
+D:\Работа\НаукаСофт\Стенд Иноходец РУ-МЕХАНИКА\Soft\MonitorMechanics_v3.3\MonitorMechanics\obj\Release\MonitorMechanics.pdb
+D:\Работа\НаукаСофт\Стенд Иноходец РУ-МЕХАНИКА\Soft\MonitorMechanics_v3.4\MonitorMechanics\obj\Release\MonitorMechanics.csprojAssemblyReference.cache
+D:\Работа\НаукаСофт\Стенд Иноходец РУ-МЕХАНИКА\Soft\MonitorMechanics_v3.4\MonitorMechanics\obj\Release\MonitorMechanics.Form1.resources
+D:\Работа\НаукаСофт\Стенд Иноходец РУ-МЕХАНИКА\Soft\MonitorMechanics_v3.4\MonitorMechanics\obj\Release\MonitorMechanics.Properties.Resources.resources
+D:\Работа\НаукаСофт\Стенд Иноходец РУ-МЕХАНИКА\Soft\MonitorMechanics_v3.4\MonitorMechanics\obj\Release\MonitorMechanics.csproj.GenerateResource.cache
+D:\Работа\НаукаСофт\Стенд Иноходец РУ-МЕХАНИКА\Soft\MonitorMechanics_v3.4\MonitorMechanics\obj\Release\MonitorMechanics.csproj.CoreCompileInputs.cache
+D:\Работа\НаукаСофт\Стенд Иноходец РУ-МЕХАНИКА\Soft\MonitorMechanics_v3.4\MonitorMechanics\obj\Release\MonitorMechanics.exe
+D:\Работа\НаукаСофт\Стенд Иноходец РУ-МЕХАНИКА\Soft\MonitorMechanics_v3.4\MonitorMechanics\obj\Release\MonitorMechanics.pdb
+D:\Работа\НаукаСофт\Стенд Иноходец РУ-МЕХАНИКА\Soft\MonitorMechanics_v3.4\MonitorMechanics\bin\Release\MonitorMechanics.exe
+D:\Работа\НаукаСофт\Стенд Иноходец РУ-МЕХАНИКА\Soft\MonitorMechanics_v3.4\MonitorMechanics\bin\Release\MonitorMechanics.pdb
+D:\Работа\НаукаСофт\Стенд Иноходец РУ-МЕХАНИКА\Soft\MonitorMechanics_v3.4\MonitorMechanics\bin\Release\ZedGraph.dll
+D:\Работа\НаукаСофт\Стенд Иноходец РУ-МЕХАНИКА\Soft\MonitorMechanics_v3.4\MonitorMechanics\obj\Release\MonitorMechanics.csproj.CopyComplete
+D:\Работа\НаукаСофт\Стенд Иноходец РУ-МЕХАНИКА\Soft\MonitorMechanics_v3.5\MonitorMechanics\bin\Release\MonitorMechanics.exe
+D:\Работа\НаукаСофт\Стенд Иноходец РУ-МЕХАНИКА\Soft\MonitorMechanics_v3.5\MonitorMechanics\bin\Release\MonitorMechanics.pdb
+D:\Работа\НаукаСофт\Стенд Иноходец РУ-МЕХАНИКА\Soft\MonitorMechanics_v3.5\MonitorMechanics\bin\Release\ZedGraph.dll
+D:\Работа\НаукаСофт\Стенд Иноходец РУ-МЕХАНИКА\Soft\MonitorMechanics_v3.5\MonitorMechanics\obj\Release\MonitorMechanics.csprojAssemblyReference.cache
+D:\Работа\НаукаСофт\Стенд Иноходец РУ-МЕХАНИКА\Soft\MonitorMechanics_v3.5\MonitorMechanics\obj\Release\MonitorMechanics.Form1.resources
+D:\Работа\НаукаСофт\Стенд Иноходец РУ-МЕХАНИКА\Soft\MonitorMechanics_v3.5\MonitorMechanics\obj\Release\MonitorMechanics.Properties.Resources.resources
+D:\Работа\НаукаСофт\Стенд Иноходец РУ-МЕХАНИКА\Soft\MonitorMechanics_v3.5\MonitorMechanics\obj\Release\MonitorMechanics.csproj.GenerateResource.cache
+D:\Работа\НаукаСофт\Стенд Иноходец РУ-МЕХАНИКА\Soft\MonitorMechanics_v3.5\MonitorMechanics\obj\Release\MonitorMechanics.csproj.CoreCompileInputs.cache
+D:\Работа\НаукаСофт\Стенд Иноходец РУ-МЕХАНИКА\Soft\MonitorMechanics_v3.5\MonitorMechanics\obj\Release\MonitorMechanics.csproj.CopyComplete
+D:\Работа\НаукаСофт\Стенд Иноходец РУ-МЕХАНИКА\Soft\MonitorMechanics_v3.5\MonitorMechanics\obj\Release\MonitorMechanics.exe
+D:\Работа\НаукаСофт\Стенд Иноходец РУ-МЕХАНИКА\Soft\MonitorMechanics_v3.5\MonitorMechanics\obj\Release\MonitorMechanics.pdb
+D:\Горшков А.А\Кронштадт\Стенд Иноходец РУ-МЕХАНИКА\Soft\MonitorMechanics_v3.5\MonitorMechanics\obj\Release\MonitorMechanics.exe
+D:\Горшков А.А\Кронштадт\Стенд Иноходец РУ-МЕХАНИКА\Soft\MonitorMechanics_v3.5\MonitorMechanics\obj\Release\MonitorMechanics.pdb
+D:\Горшков А.А\Кронштадт\Стенд Иноходец РУ-МЕХАНИКА\Soft\MonitorMechanics_v3.5\MonitorMechanics\bin\Release\MonitorMechanics.exe
+D:\Горшков А.А\Кронштадт\Стенд Иноходец РУ-МЕХАНИКА\Soft\MonitorMechanics_v3.5\MonitorMechanics\bin\Release\MonitorMechanics.pdb
+D:\Горшков А.А\Кронштадт\Стенд Иноходец РУ-МЕХАНИКА\Soft\MonitorMechanics_v3.5\MonitorMechanics\bin\Release\ZedGraph.dll
+D:\Горшков А.А\Кронштадт\Стенд Иноходец РУ-МЕХАНИКА\Soft\MonitorMechanics_v3.5\MonitorMechanics\obj\Release\MonitorMechanics.csprojResolveAssemblyReference.cache
+D:\Горшков А.А\Кронштадт\Стенд Иноходец РУ-МЕХАНИКА\Soft\MonitorMechanics_v3.5\MonitorMechanics\obj\Release\MonitorMechanics.Form1.resources
+D:\Горшков А.А\Кронштадт\Стенд Иноходец РУ-МЕХАНИКА\Soft\MonitorMechanics_v3.5\MonitorMechanics\obj\Release\MonitorMechanics.Properties.Resources.resources
+D:\Горшков А.А\Кронштадт\Стенд Иноходец РУ-МЕХАНИКА\Soft\MonitorMechanics_v3.5\MonitorMechanics\obj\Release\MonitorMechanics.csproj.GenerateResource.Cache
+D:\Работа\НаукаСофт\Стенд Иноходец РУ-МЕХАНИКА\Soft\MonitorMechanics_v3.6\MonitorMechanics\bin\Release\MonitorMechanics.exe
+D:\Работа\НаукаСофт\Стенд Иноходец РУ-МЕХАНИКА\Soft\MonitorMechanics_v3.6\MonitorMechanics\bin\Release\MonitorMechanics.pdb
+D:\Работа\НаукаСофт\Стенд Иноходец РУ-МЕХАНИКА\Soft\MonitorMechanics_v3.6\MonitorMechanics\bin\Release\ZedGraph.dll
+D:\Работа\НаукаСофт\Стенд Иноходец РУ-МЕХАНИКА\Soft\MonitorMechanics_v3.6\MonitorMechanics\obj\Release\MonitorMechanics.csprojAssemblyReference.cache
+D:\Работа\НаукаСофт\Стенд Иноходец РУ-МЕХАНИКА\Soft\MonitorMechanics_v3.6\MonitorMechanics\obj\Release\MonitorMechanics.Form1.resources
+D:\Работа\НаукаСофт\Стенд Иноходец РУ-МЕХАНИКА\Soft\MonitorMechanics_v3.6\MonitorMechanics\obj\Release\MonitorMechanics.Properties.Resources.resources
+D:\Работа\НаукаСофт\Стенд Иноходец РУ-МЕХАНИКА\Soft\MonitorMechanics_v3.6\MonitorMechanics\obj\Release\MonitorMechanics.csproj.GenerateResource.cache
+D:\Работа\НаукаСофт\Стенд Иноходец РУ-МЕХАНИКА\Soft\MonitorMechanics_v3.6\MonitorMechanics\obj\Release\MonitorMechanics.csproj.CoreCompileInputs.cache
+D:\Работа\НаукаСофт\Стенд Иноходец РУ-МЕХАНИКА\Soft\MonitorMechanics_v3.6\MonitorMechanics\obj\Release\MonitorMechanics.csproj.CopyComplete
+D:\Работа\НаукаСофт\Стенд Иноходец РУ-МЕХАНИКА\Soft\MonitorMechanics_v3.6\MonitorMechanics\obj\Release\MonitorMechanics.exe
+D:\Работа\НаукаСофт\Стенд Иноходец РУ-МЕХАНИКА\Soft\MonitorMechanics_v3.6\MonitorMechanics\obj\Release\MonitorMechanics.pdb
+D:\Горшков А.А\Кронштадт\Стенд Иноходец РУ-МЕХАНИКА\Soft\MonitorMechanics_v3.6\MonitorMechanics\obj\Release\MonitorMechanics.exe
+D:\Горшков А.А\Кронштадт\Стенд Иноходец РУ-МЕХАНИКА\Soft\MonitorMechanics_v3.6\MonitorMechanics\obj\Release\MonitorMechanics.pdb
+D:\Горшков А.А\Кронштадт\Стенд Иноходец РУ-МЕХАНИКА\Soft\MonitorMechanics_v3.6\MonitorMechanics\bin\Release\MonitorMechanics.exe
+D:\Горшков А.А\Кронштадт\Стенд Иноходец РУ-МЕХАНИКА\Soft\MonitorMechanics_v3.6\MonitorMechanics\bin\Release\MonitorMechanics.pdb
+D:\Горшков А.А\Кронштадт\Стенд Иноходец РУ-МЕХАНИКА\Soft\MonitorMechanics_v3.6\MonitorMechanics\bin\Release\ZedGraph.dll
+D:\Горшков А.А\Кронштадт\Стенд Иноходец РУ-МЕХАНИКА\Soft\MonitorMechanics_v3.6\MonitorMechanics\obj\Release\MonitorMechanics.csprojResolveAssemblyReference.cache
+D:\Горшков А.А\Кронштадт\Стенд Иноходец РУ-МЕХАНИКА\Soft\MonitorMechanics_v3.6\MonitorMechanics\obj\Release\MonitorMechanics.Form1.resources
+D:\Горшков А.А\Кронштадт\Стенд Иноходец РУ-МЕХАНИКА\Soft\MonitorMechanics_v3.6\MonitorMechanics\obj\Release\MonitorMechanics.Properties.Resources.resources
+D:\Горшков А.А\Кронштадт\Стенд Иноходец РУ-МЕХАНИКА\Soft\MonitorMechanics_v3.6\MonitorMechanics\obj\Release\MonitorMechanics.csproj.GenerateResource.Cache
+D:\Работа\НаукаСофт\Стенд Иноходец РУ-МЕХАНИКА\Soft\MonitorMechanics_v3.7\MonitorMechanics\bin\Release\MonitorMechanics.exe
+D:\Работа\НаукаСофт\Стенд Иноходец РУ-МЕХАНИКА\Soft\MonitorMechanics_v3.7\MonitorMechanics\bin\Release\MonitorMechanics.pdb
+D:\Работа\НаукаСофт\Стенд Иноходец РУ-МЕХАНИКА\Soft\MonitorMechanics_v3.7\MonitorMechanics\bin\Release\ZedGraph.dll
+D:\Работа\НаукаСофт\Стенд Иноходец РУ-МЕХАНИКА\Soft\MonitorMechanics_v3.7\MonitorMechanics\obj\Release\MonitorMechanics.csprojAssemblyReference.cache
+D:\Работа\НаукаСофт\Стенд Иноходец РУ-МЕХАНИКА\Soft\MonitorMechanics_v3.7\MonitorMechanics\obj\Release\MonitorMechanics.Form1.resources
+D:\Работа\НаукаСофт\Стенд Иноходец РУ-МЕХАНИКА\Soft\MonitorMechanics_v3.7\MonitorMechanics\obj\Release\MonitorMechanics.Properties.Resources.resources
+D:\Работа\НаукаСофт\Стенд Иноходец РУ-МЕХАНИКА\Soft\MonitorMechanics_v3.7\MonitorMechanics\obj\Release\MonitorMechanics.csproj.GenerateResource.cache
+D:\Работа\НаукаСофт\Стенд Иноходец РУ-МЕХАНИКА\Soft\MonitorMechanics_v3.7\MonitorMechanics\obj\Release\MonitorMechanics.csproj.CoreCompileInputs.cache
+D:\Работа\НаукаСофт\Стенд Иноходец РУ-МЕХАНИКА\Soft\MonitorMechanics_v3.7\MonitorMechanics\obj\Release\MonitorMechanics.csproj.CopyComplete
+D:\Работа\НаукаСофт\Стенд Иноходец РУ-МЕХАНИКА\Soft\MonitorMechanics_v3.7\MonitorMechanics\obj\Release\MonitorMechanics.exe
+D:\Работа\НаукаСофт\Стенд Иноходец РУ-МЕХАНИКА\Soft\MonitorMechanics_v3.7\MonitorMechanics\obj\Release\MonitorMechanics.pdb
+D:\Работа\НаукаСофт\Стенд Иноходец РУ-МЕХАНИКА\Soft\MonitorMechanics_v3.8\MonitorMechanics\bin\Release\MonitorMechanics.exe
+D:\Работа\НаукаСофт\Стенд Иноходец РУ-МЕХАНИКА\Soft\MonitorMechanics_v3.8\MonitorMechanics\bin\Release\MonitorMechanics.pdb
+D:\Работа\НаукаСофт\Стенд Иноходец РУ-МЕХАНИКА\Soft\MonitorMechanics_v3.8\MonitorMechanics\bin\Release\ZedGraph.dll
+D:\Работа\НаукаСофт\Стенд Иноходец РУ-МЕХАНИКА\Soft\MonitorMechanics_v3.8\MonitorMechanics\obj\Release\MonitorMechanics.csprojAssemblyReference.cache
+D:\Работа\НаукаСофт\Стенд Иноходец РУ-МЕХАНИКА\Soft\MonitorMechanics_v3.8\MonitorMechanics\obj\Release\MonitorMechanics.Form1.resources
+D:\Работа\НаукаСофт\Стенд Иноходец РУ-МЕХАНИКА\Soft\MonitorMechanics_v3.8\MonitorMechanics\obj\Release\MonitorMechanics.Properties.Resources.resources
+D:\Работа\НаукаСофт\Стенд Иноходец РУ-МЕХАНИКА\Soft\MonitorMechanics_v3.8\MonitorMechanics\obj\Release\MonitorMechanics.csproj.GenerateResource.cache
+D:\Работа\НаукаСофт\Стенд Иноходец РУ-МЕХАНИКА\Soft\MonitorMechanics_v3.8\MonitorMechanics\obj\Release\MonitorMechanics.csproj.CoreCompileInputs.cache
+D:\Работа\НаукаСофт\Стенд Иноходец РУ-МЕХАНИКА\Soft\MonitorMechanics_v3.8\MonitorMechanics\obj\Release\MonitorMechanics.csproj.CopyComplete
+D:\Работа\НаукаСофт\Стенд Иноходец РУ-МЕХАНИКА\Soft\MonitorMechanics_v3.8\MonitorMechanics\obj\Release\MonitorMechanics.exe
+D:\Работа\НаукаСофт\Стенд Иноходец РУ-МЕХАНИКА\Soft\MonitorMechanics_v3.8\MonitorMechanics\obj\Release\MonitorMechanics.pdb
+D:\Работа\НаукаСофт\Стенд Иноходец РУ-МЕХАНИКА\Soft\MonitorMechanics_v3.9\MonitorMechanics\bin\Release\MonitorMechanics.exe
+D:\Работа\НаукаСофт\Стенд Иноходец РУ-МЕХАНИКА\Soft\MonitorMechanics_v3.9\MonitorMechanics\bin\Release\MonitorMechanics.pdb
+D:\Работа\НаукаСофт\Стенд Иноходец РУ-МЕХАНИКА\Soft\MonitorMechanics_v3.9\MonitorMechanics\bin\Release\ZedGraph.dll
+D:\Работа\НаукаСофт\Стенд Иноходец РУ-МЕХАНИКА\Soft\MonitorMechanics_v3.9\MonitorMechanics\obj\Release\MonitorMechanics.Form1.resources
+D:\Работа\НаукаСофт\Стенд Иноходец РУ-МЕХАНИКА\Soft\MonitorMechanics_v3.9\MonitorMechanics\obj\Release\MonitorMechanics.Properties.Resources.resources
+D:\Работа\НаукаСофт\Стенд Иноходец РУ-МЕХАНИКА\Soft\MonitorMechanics_v3.9\MonitorMechanics\obj\Release\MonitorMechanics.csproj.GenerateResource.cache
+D:\Работа\НаукаСофт\Стенд Иноходец РУ-МЕХАНИКА\Soft\MonitorMechanics_v3.9\MonitorMechanics\obj\Release\MonitorMechanics.csproj.CoreCompileInputs.cache
+D:\Работа\НаукаСофт\Стенд Иноходец РУ-МЕХАНИКА\Soft\MonitorMechanics_v3.9\MonitorMechanics\obj\Release\MonitorMechanics.csproj.CopyComplete
+D:\Работа\НаукаСофт\Стенд Иноходец РУ-МЕХАНИКА\Soft\MonitorMechanics_v3.9\MonitorMechanics\obj\Release\MonitorMechanics.exe
+D:\Работа\НаукаСофт\Стенд Иноходец РУ-МЕХАНИКА\Soft\MonitorMechanics_v3.9\MonitorMechanics\obj\Release\MonitorMechanics.pdb
+D:\Горшков А.А\Кронштадт\Стенд Иноходец РУ-МЕХАНИКА\Soft\MonitorMechanics_v3.9\MonitorMechanics\obj\Release\MonitorMechanics.exe
+D:\Горшков А.А\Кронштадт\Стенд Иноходец РУ-МЕХАНИКА\Soft\MonitorMechanics_v3.9\MonitorMechanics\obj\Release\MonitorMechanics.pdb
+D:\Горшков А.А\Кронштадт\Стенд Иноходец РУ-МЕХАНИКА\Soft\MonitorMechanics_v3.9\MonitorMechanics\obj\Release\MonitorMechanics.csprojResolveAssemblyReference.cache
+D:\Горшков А.А\Кронштадт\Стенд Иноходец РУ-МЕХАНИКА\Soft\MonitorMechanics_v3.9\MonitorMechanics\obj\Release\MonitorMechanics.Form1.resources
+D:\Горшков А.А\Кронштадт\Стенд Иноходец РУ-МЕХАНИКА\Soft\MonitorMechanics_v3.9\MonitorMechanics\obj\Release\MonitorMechanics.Properties.Resources.resources
+D:\Горшков А.А\Кронштадт\Стенд Иноходец РУ-МЕХАНИКА\Soft\MonitorMechanics_v3.9\MonitorMechanics\obj\Release\MonitorMechanics.csproj.GenerateResource.Cache
+D:\Горшков А.А\Кронштадт\Стенд Иноходец РУ-МЕХАНИКА\Soft\MonitorMechanics_v3.9\MonitorMechanics\bin\Release\MonitorMechanics.exe
+D:\Горшков А.А\Кронштадт\Стенд Иноходец РУ-МЕХАНИКА\Soft\MonitorMechanics_v3.9\MonitorMechanics\bin\Release\MonitorMechanics.pdb
+D:\Горшков А.А\Кронштадт\Стенд Иноходец РУ-МЕХАНИКА\Soft\MonitorMechanics_v3.9\MonitorMechanics\bin\Release\ZedGraph.dll
+D:\Работа\НаукаСофт\Стенд Иноходец РУ-МЕХАНИКА\Soft\MonitorMechanics_v3.9\MonitorMechanics\obj\Release\MonitorMechanics.csproj.AssemblyReference.cache
